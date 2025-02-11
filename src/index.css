@@ -22,3 +22,10 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+.clip-heart {
+  clip-path: path(
+    "M 50 30 C 10 -20 -50 60 50 150 C 150 60 90 -20 50 30 Z"
+  );
+}
+
+
